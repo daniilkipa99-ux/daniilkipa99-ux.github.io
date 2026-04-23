@@ -1,9 +1,23 @@
 body {                
   background-color: gray;                
-}                
+}        
 
-.header {
-  background-color: blueviolet;
-  margin: 20px;
+div {
+  background-color: tomato;
+  margin: 50px;
+  padding: 50px;
+  font-family: Georgia;
+  font-size: 25px;
 }
 
+.header {
+ /* background-color: blueviolet;*/
+  /*margin: 50px;*/
+  display: flex;
+  
+  
+}
+
+.body {
+  margin-top: 20px;
+}
