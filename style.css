@@ -1,23 +1,28 @@
 body {                
-  background-color: gray;                
+  background-color: #706e6e;                
 }        
 
 div {
-  background-color: tomato;
-  margin: 50px;
-  padding: 50px;
+  background-color: #f2eded;
+  margin: 45px;
+  padding: 45px;
   font-family: Georgia;
-  font-size: 25px;
+  font-size: 20px;
 }
 
 .header {
  /* background-color: blueviolet;*/
   /*margin: 50px;*/
-  display: flex;
+  /*display: flex;*/
   
   
 }
 
 .body {
   margin-top: 20px;
+}
+
+img {
+  margin: 20px;
+  float: left;
 }
